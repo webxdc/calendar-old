@@ -1,4 +1,6 @@
-# Calendar app
+# repo moved to https://codeberg.org/webxdc/calendar
+
+## Calendar app
 
 This is a simple calendar app for wxdc. You can create and delete events to share with other people. Great for organizations or working environments.
 
